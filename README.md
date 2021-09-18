@@ -1,2 +1,2 @@
 # KM-SKILVUL-CSS
-Technical Assigent CSS
+Technical Assignment CSS
