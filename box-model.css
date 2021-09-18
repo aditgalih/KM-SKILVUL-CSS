@@ -1,0 +1,15 @@
+/* Memberikan style pada seluruh elemen tag p di dalam class siswa */
+.siswa > p {
+  background-color: gainsboro;
+  color: #F3F4F6;
+  width: 400;
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 10px 15px
+}
+
+/* Memberi background color pada tulisan saat mode sentuh/hover */
+p:hover {
+  background-color: #E5E7EB;
+  color: #111827
+}
