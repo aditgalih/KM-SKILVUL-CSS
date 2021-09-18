@@ -1,0 +1,31 @@
+/* Memberikan style pada seluruh elemen tag p di dalam class siswa */
+.siswa > p {
+  background-color: gainsboro;
+  color: #F3F4F6;
+  width: 400;
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 10px 15px
+}
+
+/* Memberi background color pada tulisan tag p saat mode sentuh/hover */
+.siswa > p:hover {
+  background-color: #E5E7EB;
+  color: #111827
+}
+
+/* Mengatur style dan display bagian nav */
+nav > a {
+  display: inline-block;
+  background-color: lightskyblue;
+  font-family: sans-serif;
+  width: 400;
+  color: black;
+  text-transform: uppercase;
+  padding: 10px 15px;
+}
+
+/* Memberi background color pada tulisan tag a saat mode sentuh/hover */
+nav > a:hover {
+  background-color: gainsboro
+}
