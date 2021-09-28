@@ -1,0 +1,8 @@
+.siswa > p {
+  background-color: gainsboro;
+  color: #F3F4F6;
+  width: 400;
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 10px 15px
+}
